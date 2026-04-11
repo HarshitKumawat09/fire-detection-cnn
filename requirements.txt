@@ -1,0 +1,8 @@
+streamlit>=1.29.0
+tensorflow>=2.20.0
+opencv-python>=4.8.1.78
+numpy>=1.24.3
+Pillow>=10.0.1
+matplotlib
+scikit-learn
+seaborn
