@@ -11,7 +11,7 @@
 [![Streamlit](https://img.shields.io/badge/Streamlit-1.29+-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://streamlit.io)
 [![License](https://img.shields.io/badge/License-Educational-green?style=for-the-badge)](LICENSE)
 
-[🎯 Live Demo](#-running-the-application) · [🧠 Model](#-model-details) · [🛠️ Install](#-installation) · [📖 Usage](#-usage-guide)
+[🎯 Live Demo](#-running-the-application) · [🧠 Model](#-model-details) · [🛠️ Install](#-installation) · [📖 Usage](#-usage-guide) · [📦 Dataset](https://www.kaggle.com/datasets/phylake1337/fire-dataset/data)
 
 ---
 
@@ -54,6 +54,18 @@ Auto-captures the highest-confidence frame
 </tr>
 </table>
 
+<br>
+
+## 📸 Screenshots
+ 
+### Upload Interface
+![Fire Detection System - Upload Screen](screenshot_upload.png)
+*Upload a video file and configure detection settings*
+ 
+### Detection Results
+![Fire Detection System - Results Screen](screenshot_result.png)
+*Real-time fire detection snapshot with 99.8% confidence score*
+ 
 <br>
 
 ## 🧠 Model Details
