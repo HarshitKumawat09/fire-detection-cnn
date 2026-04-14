@@ -11,7 +11,7 @@
 [![Streamlit](https://img.shields.io/badge/Streamlit-1.29+-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://streamlit.io)
 [![License](https://img.shields.io/badge/License-Educational-green?style=for-the-badge)](LICENSE)
 
-[🎯 Live Demo](#-running-the-application) · [🧠 Model](#-model-details) · [🛠️ Install](#-installation) · [📖 Usage](#-usage-guide) · [📦 Dataset](https://www.kaggle.com/datasets/phylake1337/fire-dataset/data)
+[📦 Dataset](https://www.kaggle.com/datasets/phylake1337/fire-dataset/data)
 
 ---
 
@@ -59,11 +59,11 @@ Auto-captures the highest-confidence frame
 ## 📸 Screenshots
  
 ### Upload Interface
-![Fire Detection System - Upload Screen](Screenshots/Screenshot 2026-04-14 190253.png)
+![Fire Detection System - Upload Screen](https://github.com/HarshitKumawat09/fire-detection-cnn/blob/main/Screenshots/Screenshot%202026-04-14%20190253.png)
 *Upload a video file and configure detection settings*
  
 ### Detection Results
-![Fire Detection System - Results Screen](Screenshots/Screenshot 2026-04-14 190537.png)
+![Fire Detection System - Results Screen](https://github.com/HarshitKumawat09/fire-detection-cnn/blob/main/Screenshots/Screenshot%202026-04-14%20190537.png)
 *Real-time fire detection snapshot with 99.8% confidence score*
  
 <br>
