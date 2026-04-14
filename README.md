@@ -59,11 +59,11 @@ Auto-captures the highest-confidence frame
 ## 📸 Screenshots
  
 ### Upload Interface
-![Fire Detection System - Upload Screen](Screenshot 2026-04-14 190253.png)
+![Fire Detection System - Upload Screen](Screenshots/Screenshot 2026-04-14 190253.png)
 *Upload a video file and configure detection settings*
  
 ### Detection Results
-![Fire Detection System - Results Screen](Screenshot 2026-04-14 190537.png)
+![Fire Detection System - Results Screen](Screenshots/Screenshot 2026-04-14 190537.png)
 *Real-time fire detection snapshot with 99.8% confidence score*
  
 <br>
